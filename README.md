@@ -1,6 +1,7 @@
 # Augusto Luiz Silva
 
  🙋‍♂️ **Sobre Mim**
+ 
  📚 **Formação Acadêmica**
  - Tecnólogo em Análise e Desenvolvimento de Sistemas - concluído em 2020 - Faculdade de Tecnologia da Zona Leste (FATEC ZL)
  - Técnico em Informática - concluído em 2016 - Escola Técnica da Zona Leste (ETEC ZL)
