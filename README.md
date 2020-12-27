@@ -2,6 +2,13 @@
 
 
 ## 🙋‍♂️ **Sobre Mim**
+
+Apaixonado por tecnologia e fissurado em novos desafios! Prazer, sou o Augusto. 
+
+Graduado em Análise e Desenvolvimento de Sistemas, atualmente atuo no desenvolvimento de sistemas bancários na Alta e Baixa Plataforma. Nesta conta, você encontrará o resultado de horas e mais horas de estudos e projetos pessoais. 
+
+Seja bem-vindo(a)!
+
 ## 📚 **Formação Acadêmica**
  - Tecnólogo em Análise e Desenvolvimento de Sistemas - concluído em 2020 - Faculdade de Tecnologia da Zona Leste (FATEC ZL)
  - Técnico em Informática - concluído em 2016 - Escola Técnica da Zona Leste (ETEC ZL)
