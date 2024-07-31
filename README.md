@@ -14,7 +14,9 @@ Seja bem-vindo(a)!
  - Técnico em Informática - concluído em 2016 - Escola Técnica da Zona Leste (ETEC ZL)
  
 ## 💼 **Experiência Profissional**
-- Itaú Unibanco - Analista de Engenharia de TI Pl, abril de 2021 - atual;
+- Itaú Unibanco - Analista de Engenharia de TI Sr | Tech Lead, setembro de 2023 - atual;
+- Itaú Unibanco - Analista de Engenharia de TI Pl | Tech Lead, agosto de 2023 - setembro de 2023;
+- Itaú Unibanco - Analista de Engenharia de TI Pl, abril de 2021 - agosto de 2023;
 - Itaú Unibanco - Analista de Engenharia de TI Jr, novembro de 2018 - abril de 2021;
 - Itaú Unibanco - Estagiário, julho de 2018 - outubro de 2018;
 
